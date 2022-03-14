@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo chmod /bin/bash
+sudo chmod !/bin/bash
